@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarin-Eccleston
 - 👀 I’m interested in computer vision, artificial intelligence, robotics, industrial design, and digital art
-- 🌱 I’m currently learning computer vision and scripting in Cinema4d
+- 🌱 I’m currently learning various things...
 - 💞️ I’m looking to collaborate on projects which are out of the ordinary!
 - 📫 You could reach me through email
 
