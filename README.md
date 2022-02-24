@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @Tarin-Eccleston
+- Hi, I’m Tarin Eccleston
+- I am particularly interested in Data Science, Machine Learning, Web Development, and Firmware
+- Please watch my journey as I explore projects in astrophysics, robotics, climate change and digital art!
