@@ -1,3 +1,1 @@
 - Hi, I’m Tarin
-- I am particularly interested in Data Science, Machine Learning, Web Development, Game Development, and Firmware
-- Please watch my journey as I explore projects in astrophysics, robotics, climate change and digital art!
