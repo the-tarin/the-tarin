@@ -6,3 +6,8 @@ Currently working on...
 - Data science projects for my learning
 - Python appications in Django
 - Kaggle Competitions: Predicting Parkinson's based on clinical and protein data
+
+Keen to collaborate on...
+- Any computer vision projects which require some sort of machine learning
+- Other Kaggle competitions!
+- Anything really cool and exciting. Please reach out if you have any ideas!
