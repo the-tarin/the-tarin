@@ -4,7 +4,7 @@ Join me in advancing my data science, statistical and computer science skills!
 
 Currently working on... 
 - Flight Delay Prediction based on Spatial-Temporal Weather Data
-- Methane Detection using Satellite Data
+- Methane Detection with Satellite Data
 - Gravitational Wave Astronomy (haven't started yet tbh)
 
 Keen to collaborate on...
