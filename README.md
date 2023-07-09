@@ -11,6 +11,7 @@ Join me in advancing my data science, statistical and computer science skills!
 
 **Interests...**
 - :chart_with_upwards_trend: Data Science projects which use sensor, signal, imaging, geospatial or meteorological data
+- :brain: Machine Learning
 - :gear: Additive Manufacturing
 - :ringed_planet: Orbital Dynamics
 - :telescope: Astronomy
