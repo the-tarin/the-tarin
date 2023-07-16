@@ -15,4 +15,4 @@ A data science master's student at The University of Auckland with 2+ years of e
 - :telescope: Astronomy
 
 **Keen to collaborate on...**
-- Anything fun, exciting and not traumatic
+- Anything fun but not traumatic
