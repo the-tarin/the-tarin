@@ -1,6 +1,6 @@
 Hi, I'm Tarin! :man_astronaut:
 
-A data science master's student at The University of Auckland with 2+ years of experience in mechatronics engineering, including working on Python and C++ in a production environment.
+A master's student at The University of Auckland with 2+ years of experience in mechatronics engineering, including working on Python and C++ in a production environment.
 
 **Currently working on...**
 - :flight_departure: Flight Delay Prediction based on Spatial Weather Data
