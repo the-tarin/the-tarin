@@ -5,7 +5,7 @@ A master's student at The University of Auckland with 2+ years of experience in 
 **Currently working on...**
 - :flight_departure: Flight Delay Prediction using Spatial Weather Data
 - :earth_asia: Methane Detection with Satellite Data
-- :milky_way: Gravitational Wave Astronomy (haven't started yet tbh)
+- :milky_way: Gravitational Wave Astronomy
 
 **Interests...**
 - :chart_with_upwards_trend: Data Science projects which use sensor, signal, imaging, geospatial or meteorological data
