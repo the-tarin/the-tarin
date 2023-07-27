@@ -16,4 +16,3 @@ A master's student at The University of Auckland with 2+ years of experience in 
 
 **Keen to collaborate on...**
 - Anything fun but not traumatic
-- Pls don't ask me to join ur mlm
