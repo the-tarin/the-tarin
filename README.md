@@ -4,7 +4,7 @@ A master's student at The University of Auckland with 2+ years of experience in 
 
 **Currently working on...**
 - :flight_departure: Flight Delay Prediction using Spatial Weather Data
-- :milky_way: Gravitational Wave Astronomy
+- :milky_way: Gravitational Wave Astronomy using Generative Models + Bayesian Stats
 - :earth_asia: Another weather-related project!
 
 **Interests...**
