@@ -4,7 +4,7 @@ A master's of statistics student at The University of Auckland with 2+ years of 
 
 **Currently working on...**
 - :monkey: Modelling Gibbon call events and creating RShiny App for Gibbon calls Acoustic Spatial Capture-Recapture field data entry
-- :collision: Using DCGANs to generate rotating core-collapse supernovae (CCSN) gravitational wave signals and parameter estimation of CCSN using CNNs
+- :collision: DCGANs to generate rotating core-collapse supernovae (CCSN) gravitational wave signals and parameter estimation using CNNs
 - :milky_way: Gravitational Wave Data Analysis using Generative Models + Parameter Estimation + Bayesian Statistics
 
 **Past projects...**
