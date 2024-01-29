@@ -12,6 +12,7 @@ A master's of statistics student at The University of Auckland with 2+ years of 
 
 **Interests...**
 - :brain: Bayesian Statistics and Machine Learning
+- 🗺️ Spatial Statistics
 - :ringed_planet: Orbital Dynamics
 - :telescope: Astronomy
 - :gear: Additive Manufacturing
