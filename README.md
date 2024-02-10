@@ -12,9 +12,9 @@ An incoming data scientist at Beca and master's of statistics student at The Uni
 
 **Interests...**
 - :brain: Bayesian Statistics and Machine Learning
-- 🗺️ Spatial Statistics
 - :ringed_planet: Orbital Dynamics
 - :telescope: Astronomy
+- 🗺️ Spatial Statistics
 - :gear: Additive Manufacturing
 
 **Keen to collaborate on...**
