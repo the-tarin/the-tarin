@@ -1,6 +1,6 @@
 Hi, I'm Tarin! :man_astronaut:
 
-A master's of statistics student at The University of Auckland with 2+ years of experience in mechatronics engineering, including working on Python and C++ in a production environment.
+An incoming data scientist at Beca and master's of statistics student at The University of Auckland with 2+ years of experience in mechatronics engineering, including working on Python and C++ in a production environment.
 
 **Currently working on...**
 - :monkey: Modelling Gibbon call events and creating RShiny App for Gibbon calls Acoustic Spatial Capture-Recapture field data entry
