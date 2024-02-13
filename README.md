@@ -4,7 +4,7 @@ An incoming data scientist at Beca and master's of statistics student at The Uni
 
 **Currently working on...**
 - :monkey: Modelling Gibbon call events and creating RShiny App for Gibbon calls Acoustic Spatial Capture-Recapture field data entry
-- :collision: DCGANs to generate rotating core-collapse supernovae (CCSN) gravitational wave signals and parameter estimation using CNNs
+- :collision: DCGANs to generate rotating stellar core-collapse gravitational wave signals and parameter estimation using CNNs (currently reworking on this one)
 - :milky_way: Gravitational Wave Data Analysis using parameter estimation + Bayesian statistics
 
 **Past projects...**
